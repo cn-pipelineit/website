@@ -1,11 +1,11 @@
 # CN PipelineIt website
 
-[![CircleCI](https://circleci.com/gh/cn-pipeline/website/tree/master.svg?style=svg)](https://circleci.com/gh/cn-pipeline/website/tree/master)
-[![](https://img.shields.io/github/license/cn-pipeline/website)](https://github.com/cn-pipeline/website)
-[![](https://img.shields.io/github/issues/cn-pipeline/website)](https://github.com/cn-pipeline/website)
-[![](https://img.shields.io/github/issues-closed/cn-pipeline/website)](https://github.com/cn-pipeline/website)
-[![](https://img.shields.io/github/languages/code-size/cn-pipeline/website)](https://github.com/cn-pipeline/website)
-[![](https://img.shields.io/github/repo-size/cn-pipeline/website)](https://github.com/cn-pipeline/website)
+[![CircleCI](https://circleci.com/gh/cn-pipelineit/website/tree/master.svg?style=svg)](https://circleci.com/gh/cn-pipelineit/website/tree/master)
+[![](https://img.shields.io/github/license/cn-pipelineit/website)](https://github.com/cn-pipelineit/website)
+[![](https://img.shields.io/github/issues/cn-pipelineit/website)](https://github.com/cn-pipelineit/website)
+[![](https://img.shields.io/github/issues-closed/cn-pipelineit/website)](https://github.com/cn-pipelineit/website)
+[![](https://img.shields.io/github/languages/code-size/cn-pipelineit/website)](https://github.com/cn-pipelineit/website)
+[![](https://img.shields.io/github/repo-size/cn-pipelineit/website)](https://github.com/cn-pipelineit/website)
 
 ## Requirements
 
